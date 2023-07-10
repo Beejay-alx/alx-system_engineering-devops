@@ -1,1 +1,1 @@
-iam an alx student
+i am an alx student
